@@ -1,0 +1,3 @@
+Yahoo! Hack of 2013.
+
+Over 3 billion accounts were affected, including leaked names, email addresses, phone numbers, birthdates, hashed passwords, security questions, and their respective answers. Hackers were able to gain access through use of phishing and social engineering. The breach was not detected until 3 year after. In late 2016, they addressed the issue by forcing a password change on all accounts that haven't done so since 2013 and invalidated all previously stored security questions and answers. CEO Marissa Mayer leaves the company. Yahoo gets bought by Verizon.
