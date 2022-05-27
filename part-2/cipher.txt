@@ -1,0 +1,21 @@
+Part 2 - Ciphers
+================
+
+
+1. Pull the vowels from the alphabet (including "y"):
+   =================================================
+
+           [vowels]: aeiouy
+
+
+2. Reverse the order of the vowels:
+   ===============================
+
+           [vowels]: aeiouy
+   [reversedVowels]: yuoiea
+
+3. Apply to the original message (lower case only):
+   ===============================================
+
+   [originalMessage]: "I love cryptography!"
+   [cipheredMessage]: "I livu craptigrypha!"
